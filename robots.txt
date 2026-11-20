@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://orione-play.web.app/sitemap.xml
